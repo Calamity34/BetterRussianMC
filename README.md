@@ -19,4 +19,4 @@
 
 ## Контакты
 Discord: `Calamity#6480` \
-Twitter: `@_TheCalamity_`
+Twitter: `@clmty_`
